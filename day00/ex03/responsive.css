@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(213, 218, 215);
+    background-image: url(https://lh3.googleusercontent.com/proxy/2OBzNhjU-2K55vlnRxII5vGPUslkC0lqSYnlj8k8pXQ2ZgK6cGLI5TZEr0B8kuXKV1-CR6K1QcDUumiweXZSTWjOjoLTyOZTNxFESIpQEzb9);
+    background-size: 50%;
+}
+h1{
+    color: rgb(66, 6, 6);
+    font-weight: bolder;
+    text-align: center;
+}
+#atomic_weight{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33%;
+    padding: 5px;
+}
+#element{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 150%;
+    padding: 5px;
+}
+#element2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 70%;
+    padding: 5px;
+}
+#number{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33%;
+    padding: 5px;
+}
+#square1{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(201, 183, 156);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square2{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(235, 160, 206);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square3{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(233, 92, 122);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square4{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(141, 74, 74);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square5{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(238, 67, 96);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square6{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(131, 97, 99);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square7{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(182, 33, 90);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square8{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(236, 185, 185);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square9{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(167, 119, 147);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#square10{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(211, 185, 221);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
